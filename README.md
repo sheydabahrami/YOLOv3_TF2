@@ -1,7 +1,7 @@
 # YOLO_v3_tutorial
 This tutorial is about creating an API using FLASK for an image recogniton task by YOLOv3 algorithm
 
-For understanding codes you can use these references
+For understanding codes you can use these references:
 
 https://machinelearningspace.com/yolov3-tensorflow-2-part-1/
 
