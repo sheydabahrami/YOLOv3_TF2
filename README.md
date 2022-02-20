@@ -1,7 +1,7 @@
 # YOLO_v3_tutorial
 This tutorial is about creating an API using FLASK for an image recognition task by YOLOv3 algorithm
 
-It is important to know the codes of this Doc were writen by tensorflow with the help of keras API. As you know in Computer vision we have a strong library of OpenCV, therefore I have tried to write the same algorithm (yolov3) by using this library too. You can access it in [a link](https://github.com/sheydabahrami)
+It is important to know the codes of this Doc were writen by tensorflow with the help of keras API. As you know in Computer vision we have a strong library of OpenCV, therefore I have tried to write the same algorithm (yolov3) by using this library too. You can access it in [this link](https://github.com/sheydabahrami)
 
 For understanding codes you can use these references:
 
